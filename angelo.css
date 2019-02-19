@@ -1,0 +1,47 @@
+.nav-wrapper {
+background-color: white;
+color: black;
+padding: 1em;
+}
+
+.container-fluid {
+    margin-top: 7em;
+}
+
+a, a:link, a:visited, a:active, a:hover {
+    font-family: sans-serif;
+    text-decoration: none;
+    color:black;
+}
+
+#logo {
+    margin-top: -2em;
+}
+
+.dropdown-content li>a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.row {
+    margin: 1em;
+}
+
+img {
+    width: 100%;
+}
+
+.col-lg-8 {
+    text-align: justify;
+}
+
+blockquote {
+    border-left:solid 5px rgb(242, 187, 92);
+}
+
+#submit {
+    background: rgb(242, 187, 92);
+    border: rgb(242, 187, 92);
+    color: white;
+}
